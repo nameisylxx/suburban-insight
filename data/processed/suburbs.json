@@ -140,6 +140,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -267,6 +273,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -446,6 +458,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -557,6 +575,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -680,6 +704,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -839,6 +869,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -982,6 +1018,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -1165,6 +1207,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 10255.111738346,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -1376,6 +1424,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -1615,6 +1669,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -1758,6 +1818,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -1897,6 +1963,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -2060,6 +2132,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11589.518016089,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -2455,6 +2533,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -2626,6 +2710,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -2789,6 +2879,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -2956,6 +3052,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -3079,6 +3181,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -3210,6 +3318,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -3305,6 +3419,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -3480,6 +3600,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -3651,6 +3777,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -3866,6 +3998,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -4081,6 +4219,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -4188,6 +4332,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -4371,6 +4521,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -4522,6 +4678,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -4713,6 +4875,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -4920,6 +5088,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -5043,6 +5217,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -5242,6 +5422,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -5409,6 +5595,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -5624,6 +5816,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -5811,6 +6009,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -6070,6 +6274,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -6529,6 +6739,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -6684,6 +6900,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4888.943454314,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -6979,6 +7201,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -7210,6 +7438,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -7377,6 +7611,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -7636,6 +7876,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -7739,6 +7985,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -8118,6 +8370,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -8285,6 +8543,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -8432,6 +8696,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -8911,6 +9181,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -9010,6 +9286,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -9275,6 +9557,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -9442,6 +9730,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4888.943454314,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -9573,6 +9867,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -9708,6 +10008,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -9835,6 +10141,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -9998,6 +10310,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -10249,6 +10567,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -10364,6 +10688,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -10627,6 +10957,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -10934,6 +11270,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -11293,6 +11635,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -11428,6 +11776,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -11519,6 +11873,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -11630,6 +11990,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -11737,6 +12103,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -11836,6 +12208,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -11963,6 +12341,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -12102,6 +12486,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -12309,6 +12699,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4888.943454314,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -12468,6 +12864,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4888.943454314,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -12667,6 +13069,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -12838,6 +13246,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -12973,6 +13387,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -13136,6 +13556,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -13303,6 +13729,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -13506,6 +13938,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -14001,6 +14439,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -14308,6 +14752,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -14731,6 +15181,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 10255.111738346,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -14942,6 +15398,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -15165,6 +15627,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -15308,6 +15776,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -15467,6 +15941,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -15570,6 +16050,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -15721,6 +16207,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -15836,6 +16328,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -15999,6 +16497,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -16318,6 +16822,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -16585,6 +17095,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -16804,6 +17320,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -17127,6 +17649,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -17374,6 +17902,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -18035,6 +18569,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -18158,6 +18698,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -18309,6 +18855,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -18432,6 +18984,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -18559,6 +19117,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -18714,6 +19278,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -18873,6 +19443,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -18992,6 +19568,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -19163,6 +19745,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -19362,6 +19950,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -19457,6 +20051,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -19564,6 +20164,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -19671,6 +20277,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -19762,6 +20374,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -19885,6 +20503,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -19992,6 +20616,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -20091,6 +20721,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -20290,6 +20926,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -20521,6 +21163,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -21180,6 +21828,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -21503,6 +22157,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -21610,6 +22270,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -21761,6 +22427,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -21872,6 +22544,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -22083,6 +22761,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -22210,6 +22894,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -22357,6 +23047,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -22616,6 +23312,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -22787,6 +23489,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -22934,6 +23642,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -23081,6 +23795,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -23492,6 +24212,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -24135,6 +24861,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -24230,6 +24962,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -24357,6 +25095,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -24508,6 +25252,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -24903,6 +25653,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -25246,6 +26002,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -25397,6 +26159,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -25588,6 +26356,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -25715,6 +26489,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -25826,6 +26606,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -25941,6 +26727,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -26036,6 +26828,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -26231,6 +27029,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -26546,6 +27350,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -26665,6 +27475,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -26800,6 +27616,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -26951,6 +27773,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -27074,6 +27902,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -27249,6 +28083,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -27472,6 +28312,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -27643,6 +28489,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -27794,6 +28646,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -27997,6 +28855,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -28132,6 +28996,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -28291,6 +29161,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -28390,6 +29266,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -28529,6 +29411,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -28664,6 +29552,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -28855,6 +29749,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -29178,6 +30078,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -29601,6 +30507,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -29716,6 +30628,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -30107,6 +31025,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -30250,6 +31174,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -30493,6 +31423,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -30740,6 +31676,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -31027,6 +31969,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -31246,6 +32194,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -31581,6 +32535,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -32020,6 +32980,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -32255,6 +33221,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -32490,6 +33462,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -32633,6 +33611,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -32732,6 +33716,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -33655,6 +34645,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -33794,6 +34790,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -33897,6 +34899,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -33996,6 +35004,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -34351,6 +35365,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -34546,6 +35566,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -34689,6 +35715,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -35200,6 +36232,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -35423,6 +36461,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -35726,6 +36770,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -35905,6 +36955,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -36048,6 +37104,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -36139,6 +37201,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -36274,6 +37342,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -36405,6 +37479,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -36604,6 +37684,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -36847,6 +37933,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -37086,6 +38178,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -37297,6 +38395,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -37628,6 +38732,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -37867,6 +38977,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -38102,6 +39218,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -38201,6 +39323,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -38324,6 +39452,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -38471,6 +39605,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -39098,6 +40238,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -39253,6 +40399,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -39440,6 +40592,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -39635,6 +40793,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -39770,6 +40934,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -39925,6 +41095,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -40056,6 +41232,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -40147,6 +41329,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -40374,6 +41562,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -40597,6 +41791,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -41628,6 +42828,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -41783,6 +42989,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -41894,6 +43106,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -42093,6 +43311,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -42192,6 +43416,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -42439,6 +43669,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -42670,6 +43906,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -42869,6 +44111,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -42984,6 +44232,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -43155,6 +44409,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -43454,6 +44714,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -43701,6 +44967,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -44216,6 +45488,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -44443,6 +45721,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -44550,6 +45834,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -44729,6 +46019,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -44892,6 +46188,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4888.943454314,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -45007,6 +46309,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4888.943454314,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -45142,6 +46450,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -45477,6 +46791,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -45732,6 +47052,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -46047,6 +47373,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -46250,6 +47582,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -46469,6 +47807,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -47498,6 +48842,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -47761,6 +49111,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -47892,6 +49248,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -48091,6 +49453,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -48270,6 +49638,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -48369,6 +49743,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -48528,6 +49908,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -48683,6 +50069,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4888.943454314,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -48802,6 +50194,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -49089,6 +50487,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -49456,6 +50860,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -49619,6 +51029,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -49718,6 +51134,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -50025,6 +51447,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -50116,6 +51544,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -50515,6 +51949,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -50682,6 +52122,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -50965,6 +52411,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -51148,6 +52600,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -51259,6 +52717,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -51362,6 +52826,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -51525,6 +52995,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -51868,6 +53344,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -52119,6 +53601,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -52566,6 +54054,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -52717,6 +54211,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -53020,6 +54520,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -53139,6 +54645,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -53362,6 +54874,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -53457,6 +54975,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -53720,6 +55244,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -53863,6 +55393,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -53974,6 +55510,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -54229,6 +55771,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -54432,6 +55980,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5670.477152004,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -54619,6 +56173,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -54898,6 +56458,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -55005,6 +56571,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -55100,6 +56672,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -55203,6 +56781,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 10255.111738346,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -55290,6 +56874,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -55529,6 +57119,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -56112,6 +57708,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -56211,6 +57813,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -56306,6 +57914,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11589.518016089,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -56513,6 +58127,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -56720,6 +58340,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -57019,6 +58645,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -57170,6 +58802,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -57309,6 +58947,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -57412,6 +59056,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -57775,6 +59425,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -57894,6 +59550,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -58029,6 +59691,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -58244,6 +59912,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -58515,6 +60189,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -58650,6 +60330,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -58749,6 +60435,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -59008,6 +60700,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -59143,6 +60841,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -59606,6 +61310,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -59809,6 +61519,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -59932,6 +61648,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -60175,6 +61897,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -60362,6 +62090,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11589.518016089,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -60573,6 +62307,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11589.518016089,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -60684,6 +62424,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -60807,6 +62553,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -60978,6 +62730,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -61125,6 +62883,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -61256,6 +63020,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -61383,6 +63153,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -62314,6 +64090,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -62429,6 +64211,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -62744,6 +64532,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -63139,6 +64933,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -63442,6 +65242,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -63597,6 +65403,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -63808,6 +65620,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -63943,6 +65761,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -64214,6 +66038,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -64485,6 +66315,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -64624,6 +66460,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -64727,6 +66569,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -64890,6 +66738,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -65281,6 +67135,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -65380,6 +67240,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -65651,6 +67517,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -65802,6 +67674,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -65973,6 +67851,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -66368,6 +68252,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -66747,6 +68637,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -66858,6 +68754,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -66985,6 +68887,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -67196,6 +69104,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -67511,6 +69425,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -67666,6 +69586,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -67765,6 +69691,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -67860,6 +69792,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -68003,6 +69941,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -68246,6 +70190,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -68381,6 +70331,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -68596,6 +70552,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -68831,6 +70793,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -69158,6 +71126,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -69421,6 +71395,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -69612,6 +71592,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -69907,6 +71893,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -70106,6 +72098,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -70321,6 +72319,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -70412,6 +72416,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -70655,6 +72665,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -70794,6 +72810,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -71041,6 +73063,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -71248,6 +73276,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -71595,6 +73629,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -71850,6 +73890,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -72053,6 +74099,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -72260,6 +74312,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -72439,6 +74497,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -72654,6 +74718,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -72785,6 +74855,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -73028,6 +75104,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -73167,6 +75249,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -73278,6 +75366,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -73601,6 +75695,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -73812,6 +75912,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 10255.111738346,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -73919,6 +76025,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -74134,6 +76246,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -74357,6 +76475,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -74556,6 +76680,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -75019,6 +77149,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -75150,6 +77286,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -75245,6 +77387,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -75364,6 +77512,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -75647,6 +77801,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -75886,6 +78046,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -76265,6 +78431,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -76392,6 +78564,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -76811,6 +78989,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -77034,6 +79218,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -77461,6 +79651,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -77896,6 +80092,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -78151,6 +80353,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -78270,6 +80478,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -78417,6 +80631,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -78644,6 +80864,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -78807,6 +81033,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7425.296920143,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -78950,6 +81182,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -79129,6 +81367,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -79500,6 +81744,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -79691,6 +81941,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -80006,6 +82262,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -80129,6 +82391,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -80348,6 +82616,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -80611,6 +82885,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -80978,6 +83258,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -81105,6 +83391,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11589.518016089,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -81312,6 +83604,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 10255.111738346,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -81407,6 +83705,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -81526,6 +83830,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -81617,6 +83927,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -81896,6 +84212,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -82111,6 +84433,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -82578,6 +84906,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -82825,6 +85159,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -83180,6 +85520,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 10255.111738346,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -83311,6 +85657,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 15221.007676979,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -83590,6 +85942,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -83809,6 +86167,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -83984,6 +86348,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -84079,6 +86449,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -84206,6 +86582,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -84361,6 +86743,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -84576,6 +86964,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -84963,6 +87357,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -85066,6 +87466,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -85311,6 +87717,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -85450,6 +87862,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -85569,6 +87987,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -85668,6 +88092,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -85843,6 +88273,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4888.943454314,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -86158,6 +88594,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -86469,6 +88911,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -86608,6 +89056,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -86775,6 +89229,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -86886,6 +89346,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -86993,6 +89459,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -87264,6 +89736,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -87559,6 +90037,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -88162,6 +90646,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -88385,6 +90875,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -88684,6 +91180,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -89131,6 +91633,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -89262,6 +91770,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11750.946461021,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -89625,6 +92139,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -89780,6 +92300,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -89915,6 +92441,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -90194,6 +92726,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -90627,6 +93165,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -90722,6 +93266,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -90889,6 +93439,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -91252,6 +93808,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -91355,6 +93917,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -91498,6 +94066,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11589.518016089,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -91629,6 +94203,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -91780,6 +94360,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -91943,6 +94529,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -92118,6 +94710,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13152.762860231,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -92281,6 +94879,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -92820,6 +95424,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -92983,6 +95593,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -93122,6 +95738,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -93349,6 +95971,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -93464,6 +96092,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 4640.547531212,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -93579,6 +96213,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 13917.375477499,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -93874,6 +96514,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -94169,6 +96815,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -94392,6 +97044,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -94499,6 +97157,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -94718,6 +97382,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -95349,6 +98019,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -95560,6 +98236,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -95719,6 +98401,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -95954,6 +98642,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -96101,6 +98795,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -96200,6 +98900,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -96483,6 +99189,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -96826,6 +99538,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -96925,6 +99643,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -97048,6 +99772,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 9442.949047788,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -97291,6 +100021,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -97558,6 +100294,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -97785,6 +100527,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -98024,6 +100772,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -98227,6 +100981,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -98502,6 +101262,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -98637,6 +101403,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 10255.111738346,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -98764,6 +101536,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -99003,6 +101781,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -99390,6 +102174,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -99937,6 +102727,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -100180,6 +102976,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -100319,6 +103121,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11589.518016089,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -100446,6 +103254,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -100528,6 +103342,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -100631,6 +103451,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7989.057909333,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -100894,6 +103720,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -101169,6 +104001,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -101312,6 +104150,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -101503,6 +104347,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -101654,6 +104504,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6717.733185155,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -101849,6 +104705,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -102112,6 +104974,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -102311,6 +105179,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -102554,6 +105428,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -102737,6 +105617,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -102952,6 +105838,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6208.020255644,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -103059,6 +105951,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -103270,6 +106168,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -103401,6 +106305,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -103656,6 +106566,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -103855,6 +106771,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -104242,6 +107164,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6190.030786908,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -104677,6 +107605,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -104892,6 +107826,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7323.174028259,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -105287,6 +108227,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -105494,6 +108440,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -105609,6 +108561,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7497.020372277,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -105708,6 +108666,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7077.922210298,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -105863,6 +108827,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -105982,6 +108952,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -106141,6 +109117,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -106468,6 +109450,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -106775,6 +109763,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6462.884767854,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -107006,6 +110000,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -107297,6 +110297,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -107676,6 +110682,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -107815,6 +110827,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -107990,6 +111008,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 23303.675121822,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -108209,6 +111233,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -108440,6 +111470,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7056.126597676,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -108875,6 +111911,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -109430,6 +112472,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -109549,6 +112597,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -109784,6 +112838,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -109891,6 +112951,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7981.75301697,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -110010,6 +113076,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 11589.518016089,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -110297,6 +113369,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -110792,6 +113870,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3866.586831606,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -110891,6 +113975,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -111570,6 +114660,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -111933,6 +115029,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6638.174823078,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -112104,6 +115206,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 8182.138537947,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -112267,6 +115375,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6677.612710884,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -112550,6 +115664,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 6887.788488018,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -113093,6 +116213,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -113408,6 +116534,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -113843,6 +116975,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 3785.995107924,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -114010,6 +117148,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 12887.173741833,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -114677,6 +117821,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -115076,6 +118226,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 5096.118896391,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   },
   {
@@ -115203,6 +118359,12 @@
     "data_source": {
       "census_year": 2021,
       "last_updated": null
+    },
+    "crime": {
+      "rate_per_100k": 7968.107256584,
+      "granularity": "council",
+      "source": "Crime Statistics Agency (CSA) Victoria",
+      "period": "Year ending March 2026"
     }
   }
 ]
