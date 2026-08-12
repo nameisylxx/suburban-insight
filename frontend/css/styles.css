@@ -1122,6 +1122,135 @@ input[type="range"]::-moz-range-thumb {
   }
 }
 
+/* Nav drawer (nav.js) — shared across index.html/compare.html/recommend.html.
+   Same overlay + translateX + visibility-delay pattern as .sidebar-panel
+   (frontend/js/panel.js): GPU-only transform, asymmetric open/close timing
+   via the visibility transition delay, so opening is instant and closing
+   waits for the slide to finish before the element leaves the a11y tree. */
+.nav-menu-btn {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  margin-right: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  border-radius: 999px;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-menu-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.nav-drawer-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(20, 33, 61, 0.5);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 240ms ease-out, visibility 0s linear 240ms;
+}
+
+.nav-drawer-overlay.nav-drawer-open {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 240ms ease-out, visibility 0s linear 0s;
+}
+
+.nav-drawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 2001;
+  width: min(280px, 85vw);
+  background: white;
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.2);
+  visibility: hidden;
+  transform: translateX(-100%);
+  transition: transform 240ms ease-out, visibility 0s linear 240ms;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-drawer.nav-drawer-open {
+  visibility: visible;
+  transform: translateX(0);
+  transition: transform 240ms ease-out, visibility 0s linear 0s;
+}
+
+.nav-drawer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 0.75rem 1rem 1.25rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.nav-drawer-title {
+  font-weight: 700;
+  color: var(--navy);
+}
+
+.nav-drawer-close {
+  width: 2.25rem;
+  height: 2.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  border-radius: 999px;
+  font-size: 1.2rem;
+  line-height: 1;
+  color: var(--navy);
+  cursor: pointer;
+}
+
+.nav-drawer-close:hover {
+  background: rgba(15, 157, 142, 0.12);
+  color: var(--teal-text);
+}
+
+.nav-drawer-list {
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem;
+}
+
+.nav-drawer-link {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.7rem 0.75rem;
+  border-radius: 8px;
+  color: var(--navy);
+  text-decoration: none;
+  font-size: 0.95rem;
+  border-left: 4px solid transparent;
+}
+
+.nav-drawer-link:hover {
+  background: rgba(15, 157, 142, 0.08);
+}
+
+.nav-drawer-link[aria-current="page"] {
+  background: rgba(15, 157, 142, 0.12);
+  border-left-color: var(--teal);
+  color: var(--teal-text);
+  font-weight: 700;
+}
+
+.nav-drawer-current-badge {
+  margin-left: auto;
+  color: var(--teal-text);
+}
+
 /* Screen-reader-only text — e.g. the "Best" label next to .winner-badge,
    which is otherwise a color/bold cue that colorblind or non-visual users
    would miss. */
