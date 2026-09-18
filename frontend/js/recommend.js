@@ -20,33 +20,33 @@ const FACTORS = [
     key: "affordability",
     label: "Affordability",
     description: "Lower weekly rent scores higher.",
+    factLabel: "Median rent",
     invert: true,
     getValue: (s) => s.median_weekly_rent,
-    getRawDisplay: (s) => (s.median_weekly_rent == null ? null : `${formatMoney(s.median_weekly_rent)}/wk`),
   },
   {
     key: "diversity",
     label: "Cultural diversity",
     description: "Higher share of overseas-born residents scores higher.",
+    factLabel: "Overseas-born",
     invert: false,
     getValue: (s) => s.overseas_born_pct,
-    getRawDisplay: (s) => (s.overseas_born_pct == null ? null : `${formatPct(s.overseas_born_pct)} overseas-born`),
   },
   {
     key: "familyFriendly",
     label: "Family-friendly",
     description: "Higher share of family households scores higher.",
+    factLabel: "Family households",
     invert: false,
     getValue: (s) => s.family_households_pct,
-    getRawDisplay: (s) => (s.family_households_pct == null ? null : `${formatPct(s.family_households_pct)} family households`),
   },
   {
     key: "services",
     label: "Access to services",
     description: "Shorter average drive time to school, hospital, GP, and childcare scores higher.",
+    factLabel: "Access index",
     invert: true,
     getValue: (s) => averageDriveRank(s.access_to_services),
-    getRawDisplay: (s) => averageDriveTimeDisplay(s.access_to_services),
   },
 ];
 
@@ -81,11 +81,15 @@ const currentWeights = Object.fromEntries(FACTORS.map((f) => [f.key, 50])); // e
 let visibleCount = RESULTS_PAGE_SIZE;
 
 document.addEventListener("DOMContentLoaded", async () => {
-  const layout = document.getElementById("match-layout");
+  const layout = document.getElementById("recommend-layout");
   try {
     const fetched = await fetchSuburbs();
     allSuburbs = fetched.filter((s) => !hasInsufficientData(s));
     excludedCount = fetched.length - allSuburbs.length;
+    if (excludedCount) {
+      document.getElementById("data-note").textContent =
+        `${excludedCount} of ${fetched.length} suburbs excluded — too little real ABS data to score reliably.`;
+    }
     computeFactorStats();
     layout.innerHTML = matchLayoutHtml();
     wireControls();
@@ -111,12 +115,6 @@ function averageDriveRank(access) {
   ];
   if (ranks.some((r) => r === undefined)) return null;
   return ranks.reduce((sum, r) => sum + r, 0) / ranks.length;
-}
-
-function averageDriveTimeDisplay(access) {
-  const avg = averageDriveRank(access);
-  if (avg == null) return null;
-  return `~${avg.toFixed(1)} avg. band`;
 }
 
 // One min/max pass per factor over all 527 suburbs, done once at load —
@@ -193,37 +191,57 @@ function computeRanking() {
     .sort((a, b) => b.total - a.total);
 }
 
+// The compact per-suburb fact grid shows each factor's own real value, not
+// its weighted contribution — three of the four are intuitive on their own
+// (a dollar figure, two percentages), so they're shown as-is. "Access to
+// services" isn't (a raw average drive-time band like "1.8" means nothing
+// out of context), so it's the one case that shows the same 0-1 normalized
+// score already computed for scoring, scaled to a 0-100 "index" instead —
+// display-only, not a second scoring pass.
+function factDisplayValue(factor, suburb) {
+  if (factor.key === "services") {
+    const score = normalizedFactorScore(factor, suburb);
+    return score == null ? null : `${Math.round(score * 100)}/100`;
+  }
+  const raw = factor.getValue(suburb);
+  if (raw == null) return null;
+  return factor.key === "affordability" ? `${formatMoney(raw)}/wk` : formatPct(raw);
+}
+
 function matchLayoutHtml() {
   return `
-    <section class="match-controls" aria-label="Your preferences">
-      <h2>Your preferences</h2>
-      <p class="muted weight-slider-intro">
-        Drag each slider to say how much it matters — they don't need to add up to anything, weights are normalized automatically.
-      </p>
-      ${FACTORS.map(sliderHtml).join("")}
-      <button type="button" id="reset-weights-btn" class="show-more-btn">Reset to equal weights</button>
+    <section class="recommend-preferences" aria-labelledby="preferences-heading">
+      <div class="recommend-panel-heading">
+        <h2 id="preferences-heading">Your priorities</h2>
+        <p>Adjust the four sliders — they don't need to add up to anything, weights are normalized automatically.</p>
+      </div>
+      <div class="recommend-controls">
+        ${FACTORS.map(sliderHtml).join("")}
+      </div>
+      <button type="button" id="reset-weights-btn" class="recommend-reset">Reset to equal weights</button>
     </section>
-    <section class="match-results" aria-label="Matching suburbs">
-      ${
-        excludedCount
-          ? `<p class="muted note">${excludedCount} localities aren't included — too little real ABS data to score reliably (same standard used to exclude them from clustering).</p>`
-          : ""
-      }
-      <p id="match-status" class="muted" role="status" aria-live="polite"></p>
-      <ol id="match-list" class="match-list"></ol>
-      <button type="button" id="show-more-btn" class="show-more-btn hidden">Show more</button>
+    <section class="recommend-results" aria-labelledby="results-heading">
+      <div class="recommend-results-heading">
+        <div>
+          <h2 id="results-heading">Best matches</h2>
+          <p id="match-status" role="status" aria-live="polite"></p>
+        </div>
+        <span class="recommend-score-label">Match score</span>
+      </div>
+      <ol id="match-list" class="recommend-list"></ol>
+      <button type="button" id="show-more-btn" class="recommend-more hidden">Show more</button>
     </section>
   `;
 }
 
 function sliderHtml(factor) {
   return `
-    <div class="weight-slider">
-      <div class="weight-slider-head">
+    <div class="recommend-control">
+      <div class="recommend-control-top">
         <label for="weight-${factor.key}">${factor.label}</label>
-        <span class="weight-slider-pct" id="weight-${factor.key}-pct" aria-hidden="true">25%</span>
+        <span class="recommend-control-pct" id="weight-${factor.key}-pct" aria-hidden="true">25%</span>
       </div>
-      <p class="weight-slider-desc muted">${factor.description}</p>
+      <p>${factor.description}</p>
       <input
         type="range"
         id="weight-${factor.key}"
@@ -245,23 +263,30 @@ function scheduleRender() {
   renderTimer = setTimeout(renderResults, 80);
 }
 
+// Normalizing one slider's weight changes every other slider's percentage
+// too (they all share the same total) — so any single drag has to refresh
+// all four labels, not just the one being dragged.
+function updateAllWeightLabels() {
+  FACTORS.forEach((f) => updateWeightLabel(f.key));
+}
+
 function wireControls() {
   FACTORS.forEach((f) => {
     const input = document.getElementById(`weight-${f.key}`);
     input.addEventListener("input", () => {
       currentWeights[f.key] = Number(input.value);
-      updateWeightLabel(f.key);
+      updateAllWeightLabels();
       scheduleRender();
     });
-    updateWeightLabel(f.key);
   });
+  updateAllWeightLabels();
 
   document.getElementById("reset-weights-btn").addEventListener("click", () => {
     FACTORS.forEach((f) => {
       currentWeights[f.key] = 50;
       document.getElementById(`weight-${f.key}`).value = 50;
-      updateWeightLabel(f.key);
     });
+    updateAllWeightLabels();
     renderResults();
   });
 
@@ -307,44 +332,28 @@ function renderResults() {
 }
 
 function matchCardHtml(result, rank) {
-  const { suburb, total, contributions, reweighted } = result;
+  const { suburb, total, reweighted } = result;
   const scoreOutOf100 = Math.round(total * 100);
 
-  const factorRows = FACTORS.map((f) => {
-    const contribution = contributions[f.key];
-    if (contribution == null) {
-      return `
-        <li class="match-factor match-factor-missing">
-          <span class="match-factor-label">${f.label}</span>
-          <span class="muted">No data for this suburb — score based on the other factors.</span>
-        </li>
-      `;
-    }
-    const pts = Math.round(contribution * 100);
-    const fillPct = Math.min(100, Math.round(contribution * 100));
-    const raw = f.getRawDisplay(suburb);
-    return `
-      <li class="match-factor">
-        <span class="match-factor-label">${f.label}</span>
-        <div class="match-factor-track"><div class="match-factor-fill" style="width:${fillPct}%"></div></div>
-        <span class="match-factor-raw">${raw ?? "—"}</span>
-        <span class="match-factor-contribution">${pts} pt${pts === 1 ? "" : "s"}</span>
-      </li>
-    `;
+  const facts = FACTORS.map((f) => {
+    const value = factDisplayValue(f, suburb);
+    return `<div><dt>${f.factLabel}</dt><dd>${value ?? "—"}</dd></div>`;
   }).join("");
 
   return `
-    <li class="match-card">
-      <div class="match-card-header">
-        <span class="match-rank" aria-hidden="true">#${rank}</span>
-        <div class="match-card-title">
-          <h3>${suburb.name}</h3>
-          <span class="muted">${suburb.council ?? ""}</span>
+    <li class="recommend-result" aria-label="Rank ${rank}: ${suburb.name}, ${scoreOutOf100} percent match">
+      <div class="recommend-rank" aria-hidden="true">${String(rank).padStart(2, "0")}</div>
+      <div class="recommend-result-main">
+        <div class="recommend-result-top">
+          <div>
+            <h3>${suburb.name}</h3>
+            <p>${suburb.council ?? ""} council</p>
+          </div>
+          <strong class="recommend-score">${scoreOutOf100}<span>%</span></strong>
         </div>
-        <span class="match-score">${scoreOutOf100}<span class="stat-suffix">/100</span></span>
+        <dl class="recommend-facts">${facts}</dl>
+        ${reweighted ? '<p class="muted note recommend-reweighted-note">Some factors are unavailable for this suburb — remaining weight was redistributed across the rest.</p>' : ""}
       </div>
-      ${reweighted ? '<p class="muted note match-reweighted-note">Some factors are unavailable for this suburb — remaining weight was redistributed across the rest.</p>' : ""}
-      <ul class="match-factor-list">${factorRows}</ul>
     </li>
   `;
 }
