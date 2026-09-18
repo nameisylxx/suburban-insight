@@ -4,7 +4,9 @@ Builds the master suburb dataset used by the backend API.
 Merges: the real Melbourne suburb list (melbourne_suburbs.py — the 531
 suburbs across the 31 official Metro Melbourne councils), cleaned Census
 demographics, cultural background, centroid + simplified boundary geometry,
-population growth, and access-to-services, into the shape documented in
+population growth, access-to-services, and council-level crime rates
+(crime_rates.py — CSA data, shared by every suburb in the same council; see
+that module's docstring for why), into the shape documented in
 docs/data-fields.md. Output: data/processed/suburbs.json — one JSON object
 per suburb, in the nested shape the frontend/API expect directly.
 
@@ -19,6 +21,7 @@ from pathlib import Path
 
 from access_to_services import load_access_to_services
 from clean_census import load_commute_to_work, load_cultural_background, load_demographics
+from crime_rates import CSA_PERIOD_LABEL, CSA_SOURCE_LABEL, load_crime_rates
 from extract_centroids import load_boundary_rings, load_centroids, load_simplified_boundaries
 from melbourne_suburbs import get_melbourne_suburbs
 from population_growth import load_population_growth
@@ -46,6 +49,7 @@ def build():
     boundary_rings = load_boundary_rings(s["sal_code"] for s in melbourne_suburbs)
     print("Querying ABS access-to-services FeatureServer per suburb (this takes a while at 531 suburbs)...")
     access_services = load_access_to_services(boundary_rings)
+    crime_rates = load_crime_rates()
 
     suburbs = []
     skipped = []
@@ -91,6 +95,12 @@ def build():
                 "gp_clinic_drive_time": None,
                 "childcare_drive_time": None,
             }),
+            "crime": {
+                "rate_per_100k": crime_rates.get(entry["council"]),
+                "granularity": "council",
+                "source": CSA_SOURCE_LABEL,
+                "period": CSA_PERIOD_LABEL,
+            },
             "cluster": {"id": None, "label": None},
             "data_source": {"census_year": 2021, "last_updated": None},
         })
@@ -101,6 +111,7 @@ def build():
         raise RuntimeError(f"Duplicate suburb ids after slugifying names: {duplicate_ids}")
 
     no_growth_data = [s["name"] for s in suburbs if s["demographics"]["population_growth_pct"] is None]
+    no_crime_data = sorted(set(s["council"] for s in suburbs if s["crime"]["rate_per_100k"] is None))
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(suburbs, indent=2))
@@ -108,6 +119,8 @@ def build():
     print(f"Wrote {len(suburbs)} suburbs to {OUTPUT_PATH}")
     if skipped:
         print(f"Skipped entirely (missing census/culture/location data): {skipped}")
+    if no_crime_data:
+        print(f"WARNING: no CSA crime rate matched for councils (name mismatch?): {no_crime_data}")
     if no_growth_data:
         print(f"No 2016->2021 population growth match for {len(no_growth_data)} suburbs: {no_growth_data}")
 

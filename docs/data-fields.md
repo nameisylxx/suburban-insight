@@ -39,6 +39,15 @@ This document re-derives the data needs directly from `proposal.pdf` and the exi
 | `gp_clinic_min` | Drive time to nearest GP/clinic | Services tab, comparison | same | **Yes** (same caveat) |
 | `childcare_min` | Drive time to nearest childcare | Services tab, comparison | same | **Yes** (same caveat) |
 
+### Crime (added 2026-08-12 — not in the original proposal, a post-MVP addition)
+| Field | What it is | Feature(s) | Source | Essential for v1? |
+|---|---|---|---|---|
+| `rate_per_100k` | Recorded-offence rate per 100,000 population, for the suburb's **council**, not the suburb itself | Planned: 5th factor in the "Find my suburb" match scorer (`frontend/js/recommend.js`) — not wired in yet, this field only lands the data | Crime Statistics Agency (CSA) Victoria, "LGA Recorded Offences" release, Table 01 (`data_pipeline/crime_rates.py`'s `load_crime_rates()`) | **No** |
+| `granularity` | Always `"council"` | Same — an explicit, self-documenting flag so nothing downstream mistakes this for a suburb-specific figure | Set by the pipeline, not sourced | **No** |
+| `source` / `period` | `"Crime Statistics Agency (CSA) Victoria"` / `"Year ending March 2026"` | Same — lets the UI cite where the number came from without a separate lookup | Set by the pipeline from `crime_rates.py`'s labels | **No** |
+
+CSA only publishes a *rate* at council/LGA level — their suburb-level table has offence *counts* only, with no population denominator, so a suburb-level rate can't be derived without inventing a population split. Every suburb in the same council therefore shares one identical `rate_per_100k` (Carlton and Melbourne CBD, both in the City of Melbourne, have the same value) — this is a real granularity limit of the source data, not a bug, which is exactly why `granularity`/`source`/`period` are stored alongside the number rather than as a bare field. CSA's current data uses "Merri-bek" for the council our 2021-vintage boundary still calls "Moreland" (renamed 2022, after that boundary vintage — same situation as the `council` field elsewhere in this doc); `crime_rates.py` maps it back.
+
 ### Commute to work (added 2026-08-10 — not in the original proposal, a post-MVP addition)
 | Field | What it is | Feature(s) | Source | Essential for v1? |
 |---|---|---|---|---|
@@ -103,6 +112,13 @@ One nested shape, used both as the API response and as the target shape the data
     "hospital_drive_time": "4–10 min",
     "gp_clinic_drive_time": "0–2 min",
     "childcare_drive_time": "0–2 min"
+  },
+
+  "crime": {
+    "rate_per_100k": 7056.126597676,
+    "granularity": "council",
+    "source": "Crime Statistics Agency (CSA) Victoria",
+    "period": "Year ending March 2026"
   },
 
   "cluster": {

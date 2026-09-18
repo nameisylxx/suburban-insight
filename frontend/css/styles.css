@@ -151,6 +151,17 @@ header .logo:hover {
   font-size: 0.85rem;
 }
 
+/* Groups the header's action links (Find my suburb / Compare) into one
+   flex child so header's top-level space-between still sees three items
+   (logo, search, actions) — matches the original two-link rhythm instead
+   of spreading four independent items unevenly across the row. */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex: none;
+}
+
 .compare-link {
   color: white;
   background: var(--teal-text);
@@ -159,6 +170,7 @@ header .logo:hover {
   font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .compare-link:hover {
@@ -584,6 +596,13 @@ header .logo:hover {
 
 .culture-bar-track {
   flex: 1;
+  /* The track is an empty div, so inside the compare <table> it contributes
+     zero intrinsic width — once 3-4 suburb columns squeeze the table down to
+     its natural width, each column gets exactly country+pct+gaps and flex:1
+     resolves to 0px, silently deleting every bar. A real minimum keeps the
+     track visible at any column count; #compare-root's overflow-x absorbs
+     the extra width on narrow screens. */
+  min-width: 60px;
   background: #e5e7eb;
   border-radius: 999px;
   height: 8px;
@@ -792,6 +811,539 @@ header .logo:hover {
 .winner-badge {
   color: var(--teal-text);
   margin-left: 0.25rem;
+}
+
+/* Up to 4 suburb columns plus a row-label column don't fit a phone-width
+   viewport without crushing every cell — scroll the table horizontally
+   inside its own container instead of letting it force the whole page to
+   scroll sideways. Harmless at desktop widths: no scrollbar appears unless
+   the table actually exceeds the available width. */
+#compare-root {
+  overflow-x: auto;
+}
+
+/* Find my suburb page */
+
+.recommend-page {
+  flex: 1;
+  padding: 1.5rem 2rem 3rem;
+  overflow-y: auto;
+}
+
+.recommend-intro {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 1.75rem;
+}
+
+.recommend-intro h1 {
+  margin: 0 0 0.25rem;
+  color: var(--navy);
+}
+
+.recommend-data-note {
+  flex: 0 0 auto;
+  max-width: 260px;
+  text-align: right;
+  font-size: 0.82rem;
+}
+
+.recommend-layout {
+  display: grid;
+  grid-template-columns: minmax(280px, 340px) minmax(0, 1fr);
+  align-items: start;
+  gap: 2.5rem;
+}
+
+.recommend-preferences {
+  position: sticky;
+  top: 1.5rem;
+  padding: 1.5rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: white;
+}
+
+.recommend-panel-heading h2 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: var(--navy);
+}
+
+.recommend-panel-heading p {
+  margin: 0.35rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.recommend-controls {
+  margin-top: 1.5rem;
+}
+
+.recommend-control {
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid #eef1f4;
+}
+
+.recommend-control:last-child {
+  margin-bottom: 1rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.recommend-control-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.recommend-control label {
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--navy);
+}
+
+.recommend-control-pct {
+  font-size: 0.9rem;
+  color: var(--teal-text);
+  font-weight: 600;
+}
+
+.recommend-control p {
+  margin: 0.3rem 0 0.7rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+/* Native range input, restyled to match the navy/teal theme. Deliberately
+   not a JS-driven "filled up to value" track — that needs recomputing a
+   background-size on every input event across three vendor-prefixed
+   pseudo-elements, and the thumb position already shows the value; a plain
+   track keeps this robust across browsers instead of chasing rendering
+   quirks for a purely decorative effect. */
+input[type="range"] {
+  width: 100%;
+  height: 1.25rem;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 999px;
+  background: #d1d5db;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: -7px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--teal-text);
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+input[type="range"]::-moz-range-track {
+  height: 6px;
+  border-radius: 999px;
+  background: #d1d5db;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--teal-text);
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.recommend-reset {
+  display: block;
+  width: 100%;
+  padding: 0.6rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--teal);
+  background: white;
+  color: var(--teal-text);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.recommend-reset:hover {
+  background: rgba(15, 157, 142, 0.08);
+}
+
+.recommend-results {
+  min-width: 0;
+}
+
+.recommend-results-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.recommend-results-heading h2 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: var(--navy);
+}
+
+.recommend-results-heading p {
+  margin: 0.3rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.recommend-score-label {
+  padding-top: 0.3rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--muted);
+}
+
+.recommend-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.recommend-result {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr);
+  gap: 0.85rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.recommend-rank {
+  padding-top: 0.15rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--teal-text);
+}
+
+.recommend-result-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 1rem;
+}
+
+.recommend-result h3 {
+  margin: 0;
+  color: var(--navy);
+  font-size: 1.05rem;
+}
+
+.recommend-result-top p {
+  margin: 0.2rem 0 0;
+  font-size: 0.83rem;
+  color: var(--muted);
+}
+
+.recommend-score {
+  color: var(--teal-text);
+  font-size: 1.4rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.recommend-score span {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.recommend-facts {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 0;
+}
+
+.recommend-facts dt {
+  font-size: 0.76rem;
+  color: var(--muted);
+}
+
+.recommend-facts dd {
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.recommend-reweighted-note {
+  margin: 0.6rem 0 0;
+}
+
+.recommend-more {
+  display: block;
+  margin: 1.25rem auto 0;
+  padding: 0.6rem 1.6rem;
+  border-radius: 999px;
+  border: 1px solid var(--teal);
+  background: white;
+  color: var(--teal-text);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.recommend-more:hover {
+  background: rgba(15, 157, 142, 0.08);
+}
+
+/* Responsive breakpoints */
+
+@media (max-width: 900px) {
+  .sidebar-panel {
+    width: 60%;
+  }
+
+  .recommend-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .recommend-preferences {
+    position: static;
+  }
+}
+
+@media (max-width: 640px) {
+  header {
+    flex-wrap: wrap;
+    row-gap: 0.5rem;
+  }
+
+  .header-actions {
+    order: 2;
+    flex: 1 1 100%;
+    justify-content: flex-end;
+  }
+
+  .suburb-search {
+    order: 3;
+    flex: 1 1 100%;
+    max-width: none;
+    margin: 0;
+  }
+
+  .filter-bar {
+    padding: 0.6rem 1rem;
+  }
+
+  .sidebar-panel {
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+  }
+
+  .sidebar-pane {
+    padding: 1.25rem 1.25rem 1.25rem 1rem;
+  }
+
+  /* Full-screen detail view needs an unmistakable way back to the map —
+     bigger tap target (WCAG 2.5.5) and a shadow so it doesn't read as a
+     minor corner decoration against the sidebar content beneath it. */
+  .panel-close-btn {
+    width: 44px;
+    height: 44px;
+    font-size: 1.4rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  }
+
+  .stat-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .compare-page {
+    padding: 1.25rem 1rem;
+  }
+
+  .compare-empty-card {
+    padding: 1.5rem 1.25rem;
+  }
+
+  .compare-table {
+    min-width: 480px;
+  }
+
+  .recommend-page {
+    padding: 1.25rem 1rem 2.5rem;
+  }
+
+  .recommend-intro {
+    display: block;
+  }
+
+  .recommend-data-note {
+    margin-top: 0.75rem;
+    max-width: none;
+    text-align: left;
+  }
+
+  .recommend-layout {
+    gap: 1.25rem;
+  }
+
+  .recommend-preferences {
+    padding: 1.1rem;
+  }
+
+  .recommend-facts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .recommend-score-label {
+    display: none;
+  }
+}
+
+/* Nav drawer (nav.js) — shared across index.html/compare.html/recommend.html.
+   Same overlay + translateX + visibility-delay pattern as .sidebar-panel
+   (frontend/js/panel.js): GPU-only transform, asymmetric open/close timing
+   via the visibility transition delay, so opening is instant and closing
+   waits for the slide to finish before the element leaves the a11y tree. */
+.nav-menu-btn {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  margin-right: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  border-radius: 999px;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-menu-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.nav-drawer-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(20, 33, 61, 0.5);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 240ms ease-out, visibility 0s linear 240ms;
+}
+
+.nav-drawer-overlay.nav-drawer-open {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 240ms ease-out, visibility 0s linear 0s;
+}
+
+.nav-drawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 2001;
+  width: min(280px, 85vw);
+  background: white;
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.2);
+  visibility: hidden;
+  transform: translateX(-100%);
+  transition: transform 240ms ease-out, visibility 0s linear 240ms;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-drawer.nav-drawer-open {
+  visibility: visible;
+  transform: translateX(0);
+  transition: transform 240ms ease-out, visibility 0s linear 0s;
+}
+
+.nav-drawer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 0.75rem 1rem 1.25rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.nav-drawer-title {
+  font-weight: 700;
+  color: var(--navy);
+}
+
+.nav-drawer-close {
+  width: 2.25rem;
+  height: 2.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  border-radius: 999px;
+  font-size: 1.2rem;
+  line-height: 1;
+  color: var(--navy);
+  cursor: pointer;
+}
+
+.nav-drawer-close:hover {
+  background: rgba(15, 157, 142, 0.12);
+  color: var(--teal-text);
+}
+
+.nav-drawer-list {
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem;
+}
+
+.nav-drawer-link {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.7rem 0.75rem;
+  border-radius: 8px;
+  color: var(--navy);
+  text-decoration: none;
+  font-size: 0.95rem;
+  border-left: 4px solid transparent;
+}
+
+.nav-drawer-link:hover {
+  background: rgba(15, 157, 142, 0.08);
+}
+
+.nav-drawer-link[aria-current="page"] {
+  background: rgba(15, 157, 142, 0.12);
+  border-left-color: var(--teal);
+  color: var(--teal-text);
+  font-weight: 700;
+}
+
+.nav-drawer-current-badge {
+  margin-left: auto;
+  color: var(--teal-text);
 }
 
 /* Screen-reader-only text — e.g. the "Best" label next to .winner-badge,
